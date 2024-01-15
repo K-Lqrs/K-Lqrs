@@ -9,7 +9,7 @@
   <li>🧩 Minecraft Plugin Creation</li>
 </ul>
 
-<h2>Contact me 📬</h2>
+<h2>Social Link 📬</h2>
 <p>Discord -> <a href="https://discordapp.com/users/inf_ruxy">inf_ruxy</a></p>
 <p>Modrinth -> <a href="https://modrinth.com/user/Ruxy">Ruxy</a></p>
 
