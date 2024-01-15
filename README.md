@@ -20,6 +20,3 @@
 
 <!-- Clear floating elements -->
 <br clear="left"/>
-
-<hr>
-<p align="center">Feel free to reach out if you want to chat about programming, Minecraft, or anything else!</p>
