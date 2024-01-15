@@ -9,7 +9,7 @@ I am a 14 year old student living in Japan 🇯🇵. I'm a hobbyist programmer a
 
 ## Contact me 📬
 - Discord -> [inf_ruxy](https://discordapp.com/users/inf_ruxy)
-- Modrinth -> [Click Here](https://modrinth.com/user/Ruxy)
+- Modrinth -> [Ruxy](https://modrinth.com/user/Ruxy)
 
 ![Minecraft](https://user-images.githubusercontent.com/path/to/minecraft-related-image.jpg)
 
