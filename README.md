@@ -18,7 +18,7 @@
 </ul>
 
 <h2>Social Links 📬</h2>
-<p>Discord -> <a href="https://discordapp.com/users/k_ruxy">inf_ruxy</a></p>
+<p>Discord -> <a href="https://discordapp.com/users/959721106816770088">inf_ruxy</a></p>
 <p>Modrinth -> <a href="https://modrinth.com/user/Ruxy">Ruxy</a></p>
 
 <!-- GitHub Readme Stats -->
