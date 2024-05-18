@@ -13,7 +13,7 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡️ <strong>[EternalJobs](https://github.com/Zephtor/EternalJobs)</strong> - Simple, multilingual 'Jobs' plugin.
+  <li>⚡ <strong><a href="https://github.com/Zephtor/EternalJobs">EternalJobs</a></strong> - Simple, multilingual 'Jobs' plugin.</li>
   <li>🌱 <strong>Learning:</strong> Kotlin, Rust, Fabric, SQLite</li>
 </ul>
 
