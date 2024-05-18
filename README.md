@@ -13,8 +13,7 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡ <strong>[HMJnClient](https://github.com/yourusername/HMJnClient)</strong> - A lightweight, optimized Minecraft client with Survival, PvP, and hack (cheat) features for Japanese users</li>
-  <li>🌱 <strong>Learning:</strong> Kotlin, Fabric, SQLite</li>
+  <li>🌱 <strong>Learning:</strong> Kotlin, Rust, Fabric, SQLite</li>
 </ul>
 
 <h2>Social Links 📬</h2>
