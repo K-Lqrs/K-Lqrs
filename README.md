@@ -1,16 +1,24 @@
 <h1 align="center">Hello everyone, welcome to my profile! 👋</h1>
 
 <h2>About me 📘</h2>
-<p>I am a 14 year old student living in Japan 🇯🇵. I'm a hobbyist programmer and I've improved to the point where I can handle full stack development (I like to think so lol). I usually create server plugins for Minecraft. 🎮</p>
+<p>I am a 15 year old student living in Japan 🇯🇵. I'm a hobbyist programmer and I usually create server plugins and mods for Minecraft. 🎮</p>
 
 <h3>What I do 🚀</h3>
 <ul>
   <li>🌐 Full Stack Development</li>
-  <li>🧩 Minecraft Plugin Creation</li>
+  <li>🧩 Minecraft Plugin and Mod Creation</li>
+  <li>💻 Desktop Application Development</li>
+  <li>🤖 Discord Bot Development</li>
 </ul>
 
-<h2>Social Link 📬</h2>
-<p>Discord -> <a href="https://discordapp.com/users/inf_ruxy">inf_ruxy</a></p>
+<h2>Current Projects 🛠️</h2>
+<ul>
+  <li>⚡ <strong>[HMJnClient](https://github.com/yourusername/HMJnClient)</strong> - A lightweight, optimized Minecraft client with Survival, PvP, and hack (cheat) features for Japanese users</li>
+  <li>🌱 <strong>Learning:</strong> Kotlin, Fabric, SQLite</li>
+</ul>
+
+<h2>Social Links 📬</h2>
+<p>Discord -> <a href="https://discordapp.com/users/k_ruxy">inf_ruxy</a></p>
 <p>Modrinth -> <a href="https://modrinth.com/user/Ruxy">Ruxy</a></p>
 
 <!-- GitHub Readme Stats -->
