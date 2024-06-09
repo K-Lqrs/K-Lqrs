@@ -13,7 +13,7 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡ <strong><a href="https://github.com/Zephtor/EternalJobs">EternalJobs</a></strong> - Simple, multilingual 'Jobs' plugin.</li>
+  <li>⚡ <strong><a href="https://github.com/KT-Ruxy/TreeRecovery">TreeRecovery</a></strong> - Fork of <strong><a href="https://modrinth.com/plugin/tree-recovery">TreeRecovery</a></strong>. Mod Version.</li>
   <li>🌱 <strong>Learning:</strong> Kotlin, Rust, Fabric, SQLite</li>
 </ul>
 
