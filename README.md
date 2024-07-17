@@ -19,7 +19,7 @@
 
 <h2>Social Links 📬</h2>
 <p>Discord Community -> <a href="https://discord.gg/8s7zRwHEcM">Click Here</a></p>
-<p>Discord -> <a href="https://discordapp.com/users/959721106816770088">inf_ruxy</a></p>
+<p>Discord -> <a href="https://discordapp.com/users/959721106816770088">k_ruxy</a></p>
 <p>Modrinth -> <a href="https://modrinth.com/user/Ruxy">Ruxy</a></p>
 
 <!-- GitHub Readme Stats -->
