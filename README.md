@@ -13,7 +13,7 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡ <strong><a href="https://github.com/KT-Ruxy/MUEF">MUEF</a></strong> - Ultralight Java Library. Based <strong><a href="https://modrinth.com/plugin/tree-recovery">Ultralight</a></strong>. </li>
+  <li>⚡ <strong><a href="https://github.com/KT-Ruxy/MUEF">MUEF</a></strong> - Ultralight Java Library. Based <strong><a href="https://ultralig.ht">Ultralight</a></strong>. </li>
   <li>🌱 <strong>Learning:</strong> Ultralight, Rust, Fabric, C++</li>
 </ul>
 
