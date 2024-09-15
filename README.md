@@ -5,7 +5,7 @@
 
 <h3>What I do 🚀</h3>
 <ul>
-  <li>🌐 Full Stack Development</li>
+  <li>🌐 Full Stack(backend leaning) Development</li>
   <li>🧩 Minecraft Plugin and Mod Creation</li>
   <li>💻 Desktop Application Development</li>
   <li>🤖 Discord Bot Development</li>
