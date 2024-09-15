@@ -25,8 +25,7 @@
 <!-- GitHub Readme Stats -->
 <div>
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Lqrs&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
-  ![k-Lqrs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-Lqrs&theme=tokyonight&hide_border=true)
+  <img alt="k-Lqrs's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=k-Lqrs&theme=tokyonight&hide_border=true"/>
 </div>
-
 <!-- Clear floating elements -->
 <br clear="left"/>
