@@ -13,8 +13,9 @@
 
 <h2>Current Projects 🛠️</h2>
 <ul>
-  <li>⚡ <strong><a href="">？</a></strong> - I'm resting<strong><a href=""></a></strong>. </li>
-  <li>🌱 <strong>Learning:</strong> Ultralight, Rust, Fabric, C++</li>
+  <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – I'm currently working with this team.<strong><a href=""></a></strong>. </li>
+  <li>🔥 <strong><a href="https://github.com/K-Lqrs/BulletinBoard">BulletinBoard</a></strong> – A strong bulletin-board plugin for Minecraft servers.</li>
+  <li>🌱 <strong>Learning:</strong> Ultralight SDK, Fabric, C++</li>
 </ul>
 
 <h2>Social Links 📬</h2>
