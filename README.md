@@ -8,18 +8,17 @@
   <li>🌐 Full Stack(backend leaning) Development</li>
   <li>🧩 Minecraft Plugin and Mod Creation</li>
   <li>💻 Desktop Application Development</li>
-  <li>🤖 Discord Bot Development</li>
+  <li>🏗️ Framework Development</li>
 </ul>
 
 <h2>Current Projects 🛠️</h2>
 <ul>
   <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – I'm currently working with this team.<strong><a href=""></a></strong>. </li>
-  <li>🔥 <strong><a href="https://github.com/K-Lqrs/BulletinBoard">BulletinBoard</a></strong> – A strong bulletin-board plugin for Minecraft servers.</li>
-  <li>🌱 <strong>Learning:</strong> Ultralight SDK, Fabric, C++</li>
+  <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – A abstraction layer for [MCEF](https://github.com/CCBlueX/mcef)</li>
+  <li>🌱 <strong>Learning:</strong> MCEF, Fabric, Java, C++</li>
 </ul>
 
 <h2>Social Links 📬</h2>
-<p>Discord Community -> <a href="https://discord.gg/8s7zRwHEcM">Click Here</a></p>
 <p>Discord -> <a href="https://discordapp.com/users/959721106816770088">k_lars</a></p>
 <p>Modrinth -> <a href="https://modrinth.com/user/Lqrs">Lqrs</a></p>
 
