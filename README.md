@@ -37,6 +37,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Lqrs&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Lqrs&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Lqrs&theme=radical"/>
 </div>
 
 ---
