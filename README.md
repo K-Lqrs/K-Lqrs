@@ -43,5 +43,5 @@
 
 <h2>Tech Stack 💻</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,ts,rust,gradle,mysql,html,css,js,git,linux&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,ts,gradle,html,css,js,git&theme=dark" alt="Tech Stack"/>
 </p>
