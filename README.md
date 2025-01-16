@@ -14,7 +14,7 @@
 <h2>Current Projects 🛠️</h2>
 <ul>
   <li>⚡ <strong><a href="https://github.com/SwiftStorm-Studio">SwiftStorm Studio</a></strong> – I'm currently working with this team.<strong><a href=""></a></strong>. </li>
-  <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – A abstraction layer for [MCEF](https://github.com/CCBlueX/mcef)</strong></li>
+  <li>🔥 <strong><a href="https://github.com/K-Lqrs/mcef-al">mcef-al</a></strong> – An abstraction layer for <a href="https://github.com/CCBlueX/mcef">MCEF</a></li>
   <li>🌱 <strong>Learning:</strong> MCEF, Fabric, Java, C++</li>
 </ul>
 
