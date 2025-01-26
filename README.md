@@ -24,21 +24,21 @@
 
 <h2>Social Links 📬</h2>
 <ul>
-  <li>💬 <strong>Discord:</strong> <a href="https://discordapp.com/users/959721106816770088">k_lars</a></li>
-  <li>🛠️ <strong>Modrinth:</strong> <a href="https://modrinth.com/user/Lqrs">Lqrs</a></li>
+  <li>💬 <strong>Discord:</strong> <a href="https://discordapp.com/users/959721106816770088">ririf4</a></li>
+  <li>🛠️ <strong>Modrinth:</strong> <a href="https://modrinth.com/user/RiriFa">RiriFa</a></li>
 </ul>
 
 ---
 
 <h2>GitHub Stats 📊</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Lqrs&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ririf4&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Lqrs&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ririf4&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Lqrs&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririf4&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Lqrs&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ririf4&theme=radical"/>
 </div>
 
 ---
