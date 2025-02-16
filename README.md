@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ririf4&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ririf4&theme=radical&short_numbers=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ririf4&theme=radical&short_numbers=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririf4&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical" alt="Top Languages"/>
   <br/>
